@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CardsList /> should render CardsList component correctly 1`] = `
+<div
+  className="MuiGrid-root makeStyles-root-1 MuiGrid-container"
+>
+  <div
+    className="MuiGrid-root makeStyles-cardContainer-2 MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-6 MuiGrid-grid-md-4 MuiGrid-grid-lg-4 MuiGrid-grid-xl-4"
+    onKeyDown={[Function]}
+  >
+    <div
+      className="MuiBox-root MuiBox-root-6 makeStyles-imageContainer-4 makeStyles-imageContainer-5 makeStyles-imgContainer-3"
+      onClick={[Function]}
+      tabIndex={3}
+    >
+      <img
+        className="makeStyles-image-7 makeStyles-image-8"
+        src="/assets/i/0_gallery_front.png"
+      />
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-cardContainer-2 MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-6 MuiGrid-grid-md-4 MuiGrid-grid-lg-4 MuiGrid-grid-xl-4"
+    onKeyDown={[Function]}
+  >
+    <div
+      className="MuiBox-root MuiBox-root-10 makeStyles-imageContainer-4 makeStyles-imageContainer-9 makeStyles-imgContainer-3"
+      onClick={[Function]}
+      tabIndex={4}
+    >
+      <img
+        className="makeStyles-image-7 makeStyles-image-11"
+        src="/assets/i/1_gallery_front.png"
+      />
+    </div>
+  </div>
+</div>
+`;

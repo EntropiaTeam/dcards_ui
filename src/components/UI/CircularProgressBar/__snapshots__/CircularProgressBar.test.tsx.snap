@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CircularProgressBar /> should render CircularProgressBar component correctly 1`] = `
+<div
+  className="MuiBox-root MuiBox-root-5 makeStyles-container-2"
+>
+  <div
+    aria-valuenow={100}
+    className="MuiCircularProgress-root makeStyles-bottom-3 MuiCircularProgress-colorPrimary MuiCircularProgress-determinate"
+    role="progressbar"
+    style={
+      Object {
+        "height": 40,
+        "transform": "rotate(-90deg)",
+        "width": 40,
+      }
+    }
+  >
+    <svg
+      className="MuiCircularProgress-svg"
+      viewBox="22 22 44 44"
+    >
+      <circle
+        className="MuiCircularProgress-circle MuiCircularProgress-circleDeterminate"
+        cx={44}
+        cy={44}
+        fill="none"
+        r={20}
+        strokeWidth={4}
+        style={
+          Object {
+            "strokeDasharray": "125.664",
+            "strokeDashoffset": "0.000px",
+          }
+        }
+      />
+    </svg>
+  </div>
+  <div
+    className="MuiCircularProgress-root makeStyles-top-4 MuiCircularProgress-colorPrimary MuiCircularProgress-indeterminate"
+    role="progressbar"
+    style={
+      Object {
+        "height": 40,
+        "width": 40,
+      }
+    }
+  >
+    <svg
+      className="MuiCircularProgress-svg"
+      viewBox="22 22 44 44"
+    >
+      <circle
+        className="MuiCircularProgress-circle MuiCircularProgress-circleDisableShrink MuiCircularProgress-circleIndeterminate"
+        cx={44}
+        cy={44}
+        fill="none"
+        r={20}
+        strokeWidth={4}
+        style={Object {}}
+      />
+    </svg>
+  </div>
+</div>
+`;

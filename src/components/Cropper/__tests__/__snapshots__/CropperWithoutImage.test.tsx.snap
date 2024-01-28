@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CropperContainer /> should render Cropper container correctly 1`] = `
+<div
+  className="MuiBox-root MuiBox-root-15 makeStyles-imageContainer-13 makeStyles-imageContainer-14 makeStyles-imgContainer-5"
+  tabIndex={-1}
+>
+  <label
+    aria-disabled={false}
+    className="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-hiddenInput-11 MuiButton-fullWidth"
+    onBlur={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    role="button"
+    tabIndex={0}
+  >
+    <span
+      className="MuiButton-label"
+    >
+      <div
+        className="MuiBox-root MuiBox-root-17 makeStyles-placeholder-6"
+        tabIndex={3}
+      >
+        <svg
+          fill="none"
+          height="39"
+          viewBox="0 0 30 39"
+          width="30"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            clipRule="evenodd"
+            d="M20.6652 6.34886H15.5844V4.53491H20.6652C21.9921 4.53491 23.2528 5.11339 24.1163 6.11853L26.1548 8.49121L29.0039 12.0444C29.6487 12.8484 30 13.8475 30 14.8773V34.4651C30 36.9697 27.9649 39 25.4545 39H9.09092C6.58054 39 4.54547 36.9697 4.54547 34.4651V16.3256H6.36365V34.4651C6.36365 35.9678 7.58469 37.1861 9.09092 37.1861H25.4545C26.9608 37.1861 28.1818 35.9679 28.1818 34.4651V14.8773C28.1818 14.2594 27.971 13.66 27.5842 13.1775L24.7543 9.64838L22.7359 7.29904C22.2177 6.69595 21.4613 6.34886 20.6652 6.34886Z"
+            fill="#C8102E"
+            fillRule="evenodd"
+          />
+          <path
+            clipRule="evenodd"
+            d="M14.4889 20.8621C14.8123 20.842 15.122 20.9952 15.3018 21.2642L18.4339 25.9514L20.4048 24.6406C20.6092 24.5046 20.8602 24.457 21.1004 24.5086C21.3406 24.5602 21.5497 24.7066 21.6799 24.9145L26.2254 32.1703C26.4005 32.4499 26.4098 32.8023 26.2496 33.0907C26.0894 33.3791 25.785 33.558 25.4545 33.558H9.09085C8.77578 33.558 8.48318 33.3953 8.31754 33.1279C8.15189 32.8605 8.13684 32.5266 8.27774 32.2454L13.7323 21.3617C13.8772 21.0725 14.1655 20.8822 14.4889 20.8621ZM14.6579 23.5708L10.5618 31.7441H23.8143L20.6343 26.668L18.686 27.9638C18.2683 28.2417 17.7038 28.1291 17.4253 27.7123L14.6579 23.5708Z"
+            fill="#C8102E"
+            fillRule="evenodd"
+          />
+          <path
+            clipRule="evenodd"
+            d="M12.7273 1.81395H3.63636C2.63221 1.81395 1.81818 2.62609 1.81818 3.6279V12.6977C1.81818 13.6995 2.63221 14.5116 3.63636 14.5116H12.7273C13.7314 14.5116 14.5454 13.6995 14.5454 12.6977V3.6279C14.5454 2.62609 13.7314 1.81395 12.7273 1.81395ZM3.63636 0C1.62805 0 0 1.62427 0 3.6279V12.6977C0 14.7013 1.62805 16.3256 3.63636 16.3256H12.7273C14.7356 16.3256 16.3636 14.7013 16.3636 12.6977V3.6279C16.3636 1.62427 14.7356 0 12.7273 0H3.63636Z"
+            fill="#C8102E"
+            fillRule="evenodd"
+          />
+          <path
+            d="M5.82613 6.41402H7.09019V9.67262C7.09019 9.84641 7.22562 9.97675 7.4062 9.97675H8.94113C9.12171 9.97675 9.25714 9.84641 9.25714 9.67262V6.41402H10.5212C10.8372 6.41402 11.0178 6.06644 10.8372 5.8492L8.48968 2.85129C8.35424 2.6775 8.03823 2.6775 7.90279 2.85129L5.55526 5.8492C5.32954 6.06644 5.51012 6.41402 5.82613 6.41402Z"
+            fill="#C8102E"
+          />
+          <path
+            d="M5.45441 10.8838H10.9089V12.6977H5.45441V10.8838Z"
+            fill="#C8102E"
+          />
+          <path
+            clipRule="evenodd"
+            d="M22.7273 19.9533C23.2294 19.9533 23.6364 19.5473 23.6364 19.0464C23.6364 18.5455 23.2294 18.1394 22.7273 18.1394C22.2253 18.1394 21.8182 18.5455 21.8182 19.0464C21.8182 19.5473 22.2253 19.9533 22.7273 19.9533ZM22.7273 21.7673C24.2336 21.7673 25.4546 20.5491 25.4546 19.0464C25.4546 17.5436 24.2336 16.3254 22.7273 16.3254C21.2211 16.3254 20.0001 17.5436 20.0001 19.0464C20.0001 20.5491 21.2211 21.7673 22.7273 21.7673Z"
+            fill="#C8102E"
+            fillRule="evenodd"
+          />
+        </svg>
+        <p
+          className="MuiTypography-root makeStyles-textLineOne-7 MuiTypography-body2"
+        >
+          placeholder.cropperLineOne
+        </p>
+        <p
+          className="MuiTypography-root makeStyles-textLineTwo-8 MuiTypography-body2"
+        >
+          placeholder.cropperLineTwo
+        </p>
+      </div>
+      <input
+        accept="image/*"
+        className="makeStyles-input-16"
+        name="file"
+        onChange={[Function]}
+        type="file"
+      />
+    </span>
+  </label>
+</div>
+`;

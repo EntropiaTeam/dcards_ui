@@ -1,0 +1,56 @@
+{
+  "stepper": {
+    "selectStyle": "Choisissez un style",
+    "personalize": "Personnalisez",
+    "frontOfCard": "Avant",
+    "insideOfCard": "À l'intérieur"
+  },
+  "buttons": {
+    "Back": "Retour",
+    "Finish": "Finir",
+    "Cancel": "Annuler",
+    "Next": "Prochain",
+    "Leave": "Partir",
+    "Stay": "Rester",
+    "UploadPhoto": "Choisissez une photo",
+    "ReplacePhoto": "Remplacer la photo",
+    "ResetChanges": "photo Réinitialiser",
+    "Front": "De face",
+    "Inside": "À l'intérieur"
+  },
+  "placeholder": {
+    "editorPlaceholder": "Ajoutez votre message personnalisé",
+    "cropperLineOne": "Télécharger une image personnalisée",
+    "cropperLineTwo": ".png et .jpg uniquement"
+  },
+  "editorMessage": {
+    "customizeCard": "Personnalisez votre carte",
+    "textLengthError": "L'espace de texte disponible est complet",
+    "imageNotChoosed": "Veuillez choisir une image",
+    "invalidImageExtension": "Veuillez sélectionner une image valide",
+    "invalidImageFileContent": "Contenu d'image non valide",
+    "invalidImagePosition": "Veuillez ajuster la position de votre photo",
+    "hasUnsavedChanges": "Vos modifications ne seront pas enregistrées",
+    "save": "Sauver",
+    "clear": "Nettoyer",
+    "modalAskTitle": "Êtes-vous sûr?"
+  },
+  "processes": {
+    "upload": "Téléchargement... ",
+    "processing": "Traitement... "
+  },
+  "termsOfService": {
+    "title": "Termes et Conditions",
+    "agree": "Se mettre d'accord"
+  },
+  "pages": {
+    "notFound": "Page non trouvée",
+    "dummyTitle": "Veuillez allumer votre appareil",
+    "dummyText": "Nous voulons vous garantir la meilleure expérience de personnalisation de votre carte"
+  },
+  "categoriesList": {
+    "matchedTitle": "Meilleure correspondance",
+    "otherTitle": "Autres catégories",
+    "addPersonalDesign": "Votre design ici"
+  }
+}

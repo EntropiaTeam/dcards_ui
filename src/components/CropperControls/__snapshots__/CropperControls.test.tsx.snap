@@ -1,0 +1,108 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CropperControls /> should render CropperControls component correctly 1`] = `
+<div
+  className="MuiBox-root MuiBox-root-2 makeStyles-actionBtns-1"
+>
+  <button
+    className="MuiButtonBase-root MuiButton-root WithStyles(ForwardRef(Button))-root-3 MuiButton-text"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[MockFunction]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiButton-label"
+    >
+      <svg
+        fill="none"
+        height="30"
+        viewBox="0 0 30 30"
+        width="30"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <rect
+          fill="currentColor"
+          height="16"
+          rx="2"
+          width="16"
+          x="6"
+          y="9.5"
+        />
+        <path
+          d="M26 16V8C26 6.34315 24.6569 5 23 5H15"
+          stroke="currentColor"
+        />
+        <path
+          d="M17.5 2L14.5 5L17.5 8"
+          stroke="currentColor"
+        />
+      </svg>
+    </span>
+  </button>
+  <button
+    className="MuiButtonBase-root MuiButton-root WithStyles(ForwardRef(Button))-root-3 MuiButton-text"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[MockFunction]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiButton-label"
+    >
+      <svg
+        fill="none"
+        height={30}
+        viewBox="0 0 30 30"
+        width={30}
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <rect
+          fill="currentColor"
+          height="2"
+          rx="1"
+          width="16"
+          x="7"
+          y="6"
+        />
+        <rect
+          fill="currentColor"
+          height="2"
+          rx="1"
+          width="4"
+          x="13"
+          y="5"
+        />
+        <path
+          clipRule="evenodd"
+          d="M7.14051 10.124C7.0659 9.52718 7.53129 9 8.13278 9H21.8672C22.4687 9 22.9341 9.52718 22.8595 10.124L21.1095 24.124C21.0469 24.6245 20.6215 25 20.1172 25H9.88278C9.37846 25 8.95306 24.6245 8.89051 24.124L7.14051 10.124ZM12 13C12 12.4477 12.4477 12 13 12C13.5523 12 14 12.4477 14 13V21C14 21.5523 13.5523 22 13 22C12.4477 22 12 21.5523 12 21V13ZM17 12C16.4477 12 16 12.4477 16 13V21C16 21.5523 16.4477 22 17 22C17.5523 22 18 21.5523 18 21V13C18 12.4477 17.5523 12 17 12Z"
+          fill="currentColor"
+          fillRule="evenodd"
+        />
+      </svg>
+    </span>
+  </button>
+</div>
+`;

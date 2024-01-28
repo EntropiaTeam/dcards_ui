@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Error /> should render Error component correctly 1`] = `
+<div
+  className="MuiBox-root MuiBox-root-4 makeStyles-errorContainer-1"
+>
+  <span
+    className="MuiBox-root MuiBox-root-5 makeStyles-errorText-2"
+  >
+    The error is occured!
+  </span>
+  <div
+    className="MuiBox-root MuiBox-root-6 makeStyles-buttonContainer-3"
+  >
+    <button
+      className="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-button-7 MuiButton-containedPrimary makeStyles-primary-8 MuiButton-disableElevation"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[MockFunction]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiButton-label"
+      >
+        Retry
+      </span>
+    </button>
+  </div>
+</div>
+`;

@@ -1,0 +1,263 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CropperContainer /> should render CropperControls component if there is no errors 1`] = `
+<div
+  className="MuiBox-root MuiBox-root-13 makeStyles-cropperContainer-1"
+>
+  <div
+    className="MuiBox-root MuiBox-root-14 makeStyles-sliderContainer-2"
+  >
+    <button
+      className="MuiButtonBase-root MuiButton-root WithStyles(ForwardRef(Button))-root-15 MuiButton-text makeStyles-zoomIconBtn-4"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={3}
+      type="button"
+    >
+      <span
+        className="MuiButton-label"
+      >
+        <svg
+          fill="none"
+          height="40"
+          viewBox="0 0 40 40"
+          width="40"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <rect
+            fill="none"
+            height="40"
+            rx="2"
+            width="40"
+          />
+          <path
+            d="M24.7143 22.8286L31 29.1143L29.1143 31L22.8286 24.7143V23.7211L22.4891 23.3691C21.056 24.6011 19.1954 25.3429 17.1714 25.3429C15.0042 25.3429 12.9258 24.4819 11.3934 22.9495C9.86092 21.4171 9 19.3386 9 17.1714C9 15.0042 9.86092 12.9258 11.3934 11.3934C12.9258 9.86092 15.0042 9 17.1714 9C19.3386 9 21.4171 9.86092 22.9495 11.3934C24.4819 12.9258 25.3429 15.0042 25.3429 17.1714C25.3429 19.1954 24.6011 21.056 23.3691 22.4891L23.7211 22.8286H24.7143ZM17.1714 22.8286C20.3143 22.8286 22.8286 20.3143 22.8286 17.1714C22.8286 14.0286 20.3143 11.5143 17.1714 11.5143C14.0286 11.5143 11.5143 14.0286 11.5143 17.1714C11.5143 20.3143 14.0286 22.8286 17.1714 22.8286ZM20.3143 17.8H17.8V20.3143H16.5429V17.8H14.0286V16.5429H16.5429V14.0286H17.8V16.5429H20.3143V17.8Z"
+            fill="currentColor"
+          />
+        </svg>
+      </span>
+    </button>
+    <div
+      className="MuiBox-root MuiBox-root-16 makeStyles-slider-3"
+    >
+      <span
+        className="MuiSlider-root MuiSlider-colorPrimary MuiSlider-vertical WithStyles(ForwardRef(Slider))-vertical-17"
+        onMouseDown={[Function]}
+        tabIndex={-1}
+      >
+        <span
+          className="MuiSlider-rail WithStyles(ForwardRef(Slider))-rail-20"
+        />
+        <span
+          className="MuiSlider-track WithStyles(ForwardRef(Slider))-track-19"
+          style={
+            Object {
+              "bottom": "0%",
+              "height": "0%",
+            }
+          }
+        />
+        <input
+          type="hidden"
+          value="0.05"
+        />
+        <span
+          aria-orientation="vertical"
+          aria-valuemax={1.1}
+          aria-valuemin={0.05}
+          aria-valuenow={0.05}
+          className="MuiSlider-thumb WithStyles(ForwardRef(Slider))-thumb-18 MuiSlider-thumbColorPrimary"
+          data-index={0}
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseOver={[Function]}
+          role="slider"
+          style={
+            Object {
+              "bottom": "0%",
+            }
+          }
+          tabIndex={0}
+        />
+      </span>
+    </div>
+    <button
+      className="MuiButtonBase-root MuiButton-root WithStyles(ForwardRef(Button))-root-15 MuiButton-text makeStyles-zoomIconBtn-4"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={4}
+      type="button"
+    >
+      <span
+        className="MuiButton-label"
+      >
+        <svg
+          fill="none"
+          height="40"
+          viewBox="0 0 40 40"
+          width="40"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <rect
+            fill="none"
+            height="40"
+            rx="2"
+            width="40"
+          />
+          <path
+            d="M24.7143 22.8286H23.7211L23.3691 22.4891C24.6011 21.056 25.3429 19.1954 25.3429 17.1714C25.3429 15.0042 24.4819 12.9258 22.9495 11.3934C21.4171 9.86092 19.3386 9 17.1714 9C15.0042 9 12.9258 9.86092 11.3934 11.3934C9.86092 12.9258 9 15.0042 9 17.1714C9 19.3386 9.86092 21.4171 11.3934 22.9495C12.9258 24.4819 15.0042 25.3429 17.1714 25.3429C19.1954 25.3429 21.056 24.6011 22.4891 23.3691L22.8286 23.7211V24.7143L29.1143 31L31 29.1143L24.7143 22.8286ZM17.1714 22.8286C14.0286 22.8286 11.5143 20.3143 11.5143 17.1714C11.5143 14.0286 14.0286 11.5143 17.1714 11.5143C20.3143 11.5143 22.8286 14.0286 22.8286 17.1714C22.8286 20.3143 20.3143 22.8286 17.1714 22.8286ZM14.0286 16.5429H20.3143V17.8H14.0286V16.5429Z"
+            fill="currentColor"
+          />
+        </svg>
+      </span>
+    </button>
+  </div>
+  <div
+    className="MuiBox-root MuiBox-root-28 makeStyles-imageContainer-26 makeStyles-imageContainer-27 makeStyles-imgContainer-5"
+    tabIndex={-1}
+  >
+    <div
+      className="sc-bdVaJa GvOTx"
+    >
+      <img
+        alt="picture"
+        src="base64:image"
+        style={
+          Object {
+            "maxWidth": "100%",
+            "opacity": 0,
+          }
+        }
+      />
+    </div>
+  </div>
+  <div
+    className="MuiBox-root MuiBox-root-30 makeStyles-actionBtns-29"
+  >
+    <button
+      className="MuiButtonBase-root MuiButton-root WithStyles(ForwardRef(Button))-root-15 MuiButton-text"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={5}
+      type="button"
+    >
+      <span
+        className="MuiButton-label"
+      >
+        <svg
+          fill="none"
+          height="30"
+          viewBox="0 0 30 30"
+          width="30"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <rect
+            fill="currentColor"
+            height="16"
+            rx="2"
+            width="16"
+            x="6"
+            y="9.5"
+          />
+          <path
+            d="M26 16V8C26 6.34315 24.6569 5 23 5H15"
+            stroke="currentColor"
+          />
+          <path
+            d="M17.5 2L14.5 5L17.5 8"
+            stroke="currentColor"
+          />
+        </svg>
+      </span>
+    </button>
+    <button
+      className="MuiButtonBase-root MuiButton-root WithStyles(ForwardRef(Button))-root-15 MuiButton-text"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={6}
+      type="button"
+    >
+      <span
+        className="MuiButton-label"
+      >
+        <svg
+          fill="none"
+          height={30}
+          viewBox="0 0 30 30"
+          width={30}
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <rect
+            fill="currentColor"
+            height="2"
+            rx="1"
+            width="16"
+            x="7"
+            y="6"
+          />
+          <rect
+            fill="currentColor"
+            height="2"
+            rx="1"
+            width="4"
+            x="13"
+            y="5"
+          />
+          <path
+            clipRule="evenodd"
+            d="M7.14051 10.124C7.0659 9.52718 7.53129 9 8.13278 9H21.8672C22.4687 9 22.9341 9.52718 22.8595 10.124L21.1095 24.124C21.0469 24.6245 20.6215 25 20.1172 25H9.88278C9.37846 25 8.95306 24.6245 8.89051 24.124L7.14051 10.124ZM12 13C12 12.4477 12.4477 12 13 12C13.5523 12 14 12.4477 14 13V21C14 21.5523 13.5523 22 13 22C12.4477 22 12 21.5523 12 21V13ZM17 12C16.4477 12 16 12.4477 16 13V21C16 21.5523 16.4477 22 17 22C17.5523 22 18 21.5523 18 21V13C18 12.4477 17.5523 12 17 12Z"
+            fill="currentColor"
+            fillRule="evenodd"
+          />
+        </svg>
+      </span>
+    </button>
+  </div>
+</div>
+`;

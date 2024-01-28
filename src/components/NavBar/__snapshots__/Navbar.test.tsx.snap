@@ -1,0 +1,102 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NavBar /> should render Navbar component correctly 1`] = `
+<div
+  className=""
+>
+  <header
+    className="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary makeStyles-appBar-5 MuiPaper-elevation4"
+  >
+    <div
+      className="MuiToolbar-root MuiToolbar-dense makeStyles-toolBar-6 MuiToolbar-gutters"
+    >
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-navBtn-2"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        role="button"
+        tabIndex={1}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          <svg
+            className="makeStyles-backIcon-3"
+            fill="none"
+            height="30"
+            viewBox="0 0 30 30"
+            width="30"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M17.9688 6L10 14.9062L17.9688 23.8125"
+              stroke="currentColor"
+              strokeWidth="2"
+            />
+          </svg>
+        </span>
+      </button>
+      <h3
+        className="MuiTypography-root makeStyles-headerTitle-7 MuiTypography-h3"
+      >
+        
+      </h3>
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-navBtn-2"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        role="button"
+        tabIndex={2}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          <svg
+            className="makeStyles-closeIcon-4"
+            fill="none"
+            height="30"
+            viewBox="0 0 30 30"
+            width="30"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M7.03125 7.03125L22.9688 22.9688"
+              stroke="currentColor"
+              strokeWidth="2"
+            />
+            <path
+              d="M7 22.9375L22.9375 7"
+              stroke="currentColor"
+              strokeWidth="2"
+            />
+          </svg>
+        </span>
+      </button>
+    </div>
+  </header>
+</div>
+`;

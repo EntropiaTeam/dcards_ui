@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MatchedCategory /> should render MatchedCategory component correctly 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container"
+>
+  <p
+    className="MuiTypography-root MuiTypography-body1"
+  >
+    categoriesList.matchedTitle
+  </p>
+  <div
+    className="MuiGrid-root MuiGrid-container"
+  >
+    <div
+      className="MuiGrid-root makeStyles-categoryContainer-1 MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-6 MuiGrid-grid-md-3 MuiGrid-grid-lg-3 MuiGrid-grid-xl-3"
+      onClick={[Function]}
+      onKeyDown={[Function]}
+    >
+      <div
+        className="makeStyles-imagesContainer-2"
+      >
+        <div
+          className="MuiBox-root MuiBox-root-6 makeStyles-imageContainer-4 makeStyles-imageContainer-5 makeStyles-imgContainer-3"
+          tabIndex={-1}
+        >
+          <img
+            alt={Object {}}
+            className="makeStyles-image-7 makeStyles-image-8"
+            src="/assets/i/[object Object]_thumb_front.png"
+          />
+        </div>
+      </div>
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+      >
+        Test category
+      </p>
+    </div>
+  </div>
+</div>
+`;

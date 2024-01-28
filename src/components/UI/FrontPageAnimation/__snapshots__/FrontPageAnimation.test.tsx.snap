@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FrontPageAnimation /> should render FrontPageAnimation component correctly 1`] = `
+<div
+  className="makeStyles-animatedCard-1 makeStyles-animatedCard-6"
+/>
+`;

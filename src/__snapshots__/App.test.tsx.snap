@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test App layout should render App Component correctly 1`] = `
+<div
+  className="MuiBox-root MuiBox-root-6"
+>
+  <div
+    className="MuiBox-root MuiBox-root-7"
+  >
+    <img
+      alt="edible-logo"
+      src="https://resources.ediblearrangements.com/resources/en-us/i/revamp_p/edible_arrangement_logo.png?v=09302019"
+    />
+  </div>
+  <div
+    className="MuiBox-root MuiBox-root-8"
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1"
+    >
+      Page not found
+    </h6>
+  </div>
+</div>
+`;

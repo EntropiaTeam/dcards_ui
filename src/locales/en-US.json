@@ -1,0 +1,56 @@
+{
+  "stepper": {
+    "selectStyle": "Select a Style",
+    "personalize": "Personalize",
+    "frontOfCard": "Front side",
+    "insideOfCard": "Inside"
+  },
+  "buttons": {
+    "Back": "back",
+    "Finish": "Finish",
+    "Cancel": "cancel",
+    "Next": "next",
+    "Leave": "Leave",
+    "Stay": "Stay",
+    "UploadPhoto": "Upload Photo",
+    "ReplacePhoto": "Replace photo",
+    "ResetChanges": "Reset photo",
+    "Front": "Front",
+    "Inside": "Inside"
+  },
+  "placeholder": {
+    "editorPlaceholder": "Add your custom message",
+    "cropperLineOne": "Upload custom image",
+    "cropperLineTwo": ".png and .jpg only"
+  },
+  "editorMessage": {
+    "customizeCard": "Customize Your Card",
+    "textLengthError": "Available text space is full. Please revise.",
+    "imageNotChoosed": "Please, choose any image",
+    "invalidImageExtension": "Please upload .png or .jpg image",
+    "invalidImageFileContent": "Please upload .png or .jpg image",
+    "invalidImagePosition": "Please adjust the position of your photo",
+    "hasUnsavedChanges": "Your custom changes will not be saved",
+    "save": "Save",
+    "clear": "Clear",
+    "modalAskTitle": "Are you Sure?"
+  },
+  "processes": {
+    "upload": "Uploading... ",
+    "processing": "Processing... "
+  },
+  "termsOfService": {
+    "title": "Terms and Conditions",
+    "agree": "Agree"
+  },
+  "pages": {
+    "notFound": "Page not found",
+    "dummyTitle": "Please turn your device",
+    "dummyText": "We want to ensure you have the best experience customizing your card"
+  },
+  "categoriesList": {
+    "matchedTitle": "Best match to chosen product",
+    "otherTitle": "Other categories",
+    "addPersonalDesign": "Your design here"
+  }
+}

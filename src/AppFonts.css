@@ -1,0 +1,28 @@
+/* -------------------------- */
+/* UI/fonts */
+/* -------------------------- */
+
+@font-face {
+  font-family: "Geomanist-regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./fonts/Geomanist-Regular.ttf");
+  src: local("Geomanist-regular"), url("./fonts/Geomanist-Regular.ttf"), format("truetype");
+}
+
+
+@font-face {
+  font-family: "Geomanist-medium";
+  font-style: normal;
+  font-weight: normal;
+  src: url("./fonts/Geomanist-Medium.ttf");
+  src: local("Geomanist-medium"), url("./fonts/Geomanist-Medium.ttf"), format("truetype");
+}
+
+@font-face {
+  font-family: "Geomanist-Book";
+  font-style: Book;
+  font-weight: normal;
+  src: url("./fonts/Geomanist-Book.ttf");
+  src: local("Geomanist-Book"), url("./fonts/Geomanist-Book.ttf"), format("truetype");
+}
